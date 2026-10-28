@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Giải Thưởng Học Sinh",
+  "description": "Hệ thống quản lý và thống kê giải thưởng học sinh tích hợp Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
